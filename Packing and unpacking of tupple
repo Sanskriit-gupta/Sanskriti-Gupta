@@ -1,0 +1,5 @@
+A=("amity university",400,"engineering")
+(College,student,type_of college)=A
+Print(college)
+Print(student)
+Print(type_of college)
