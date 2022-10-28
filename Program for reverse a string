@@ -1,0 +1,9 @@
+Def reverse(s):
+  Str=" "
+  For I in s 
+     Str=I+str
+  Return str
+S="amity university"
+
+Print("the reverse str is: ",end"" ")
+Print(reverse(s))
