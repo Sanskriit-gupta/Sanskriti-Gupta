@@ -1,0 +1,4 @@
+List_1=[2,5,8,78,50]
+For num in list:
+    If num%2==0 
+       Print(num,end=" ")
