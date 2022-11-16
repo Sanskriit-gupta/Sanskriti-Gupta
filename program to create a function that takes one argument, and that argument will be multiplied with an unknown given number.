@@ -1,0 +1,10 @@
+def func_compute(n):
+ return lambda x : x * n
+result = func_compute(2)
+print("double the number of 15 =", result(15))
+result = func_compute(3)
+print("triple the number of 15 =", result(15))
+result = func_compute(4)
+print("quadruple the number of 15 =", result(15))
+result = func_compute(5)
+print("quintuple the number 15 =", result(15))
