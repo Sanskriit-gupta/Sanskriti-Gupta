@@ -1,0 +1,8 @@
+def display_student(name, age):
+    print(name, age)
+    # call using original name
+display_student("emma", 26)
+    # assign new name
+showstudent = display_student
+    # call using new name
+showstudent("emma", 26)
