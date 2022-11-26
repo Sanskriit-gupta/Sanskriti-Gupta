@@ -1,0 +1,5 @@
+
+def show_employee(name, salary=9000):
+    print("name:", name, "salary:", salary)
+Show_employee("surya", 12000)
+show_employee("vanshika")
