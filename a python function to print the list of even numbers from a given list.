@@ -1,0 +1,4 @@
+list=[2,3,8,78,20,60]
+for num in list:
+  if num%2==0:
+    print (num,end=" ")
