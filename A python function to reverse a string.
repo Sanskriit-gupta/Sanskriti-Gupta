@@ -1,0 +1,5 @@
+
+def my_function(x):
+  return x[::-1]
+my_txt=my_function("i wonder how this text looks like backwards")
+print(my_txt)
